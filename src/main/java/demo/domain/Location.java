@@ -12,7 +12,7 @@ import java.util.Date;
 @JsonInclude(JsonInclude.Include.NON_NULL)
 @Data
 @Entity
-public class Location {
+public class  Location {
     enum GpsStatus{
         EXCELLENT, OK, UNRELIABLE, BAD, NOFIX, UNKNOWN;
     }

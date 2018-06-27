@@ -1,2 +1,8 @@
+/home/horis/Documents/running_location_service/src/main/java/demo/domain/MedicalInfo.java
+/home/horis/Documents/running_location_service/src/main/java/demo/rest/RunningBulkUploadController.java
+/home/horis/Documents/running_location_service/src/main/java/demo/domain/Location.java
+/home/horis/Documents/running_location_service/src/main/java/demo/service/LocationService.java
+/home/horis/Documents/running_location_service/src/main/java/demo/service/Implement/LocationServiceImpl.java
 /home/horis/Documents/running_location_service/src/main/java/demo/RunningLocationServiceApplication.java
+/home/horis/Documents/running_location_service/src/main/java/demo/domain/LocationRepository.java
 /home/horis/Documents/running_location_service/src/main/java/demo/domain/UnitInfo.java
