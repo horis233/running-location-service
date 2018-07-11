@@ -5,6 +5,7 @@ demo/domain/UnitInfo.class
 demo/domain/Location$GpsStatus.class
 demo/domain/Location$RunnerMovementType.class
 demo/rest/RunningBulkUploadController.class
+demo/domain/LocationRestRepository.class
 demo/service/Implement/LocationServiceImpl.class
 demo/RunningLocationServiceApplication.class
 demo/service/LocationService.class
